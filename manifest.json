@@ -1,0 +1,9 @@
+{
+  "name": "Pixel Forge Command Deck",
+  "short_name": "PixelForge",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090a0f",
+  "theme_color": "#ff334b",
+  "icons": []
+}
